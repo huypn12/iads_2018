@@ -1,0 +1,9 @@
+﻿<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+    <PropertyGroup>
+        <UnityWSASolutionName>HoloLensProteinsGpSahHuy</UnityWSASolutionName>
+        <UnityWSASolutionDir>C:\Users\IADS18_2\iads_2018\HoloLensProteinsGpSahHuy\Build\</UnityWSASolutionDir>
+        <UnityProjectDir>C:\Users\IADS18_2\iads_2018\HoloLensProteinsGpSahHuy\</UnityProjectDir>
+        <UnityWSAPlayerDir>D:\Programs\Unity\Editor\Data\PlaybackEngines\MetroSupport\</UnityWSAPlayerDir>
+        <UnityWSAToolsDir>$(UnityWSASolutionDir)Unity\Tools\</UnityWSAToolsDir>
+    </PropertyGroup>
+</Project>

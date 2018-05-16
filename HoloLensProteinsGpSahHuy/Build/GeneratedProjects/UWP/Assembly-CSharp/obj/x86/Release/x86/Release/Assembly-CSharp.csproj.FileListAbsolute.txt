@@ -1,0 +1,17 @@
+C:\Users\IADS18_2\iads_2018\HoloLensProteinsGpSahHuy\Build\GeneratedProjects\UWP\Assembly-CSharp\bin\x86\Release\Assembly-CSharp.dll
+C:\Users\IADS18_2\iads_2018\HoloLensProteinsGpSahHuy\Build\GeneratedProjects\UWP\Assembly-CSharp\bin\x86\Release\Assembly-CSharp.pdb
+C:\Users\IADS18_2\iads_2018\HoloLensProteinsGpSahHuy\Build\GeneratedProjects\UWP\Assembly-CSharp\bin\x86\Release\Assembly-CSharp.pri
+C:\Users\IADS18_2\iads_2018\HoloLensProteinsGpSahHuy\Build\GeneratedProjects\UWP\Assembly-CSharp\obj\x86\Release\x86\Release\Assembly-CSharp.csprojResolveAssemblyReference.cache
+C:\Users\IADS18_2\iads_2018\HoloLensProteinsGpSahHuy\Build\GeneratedProjects\UWP\Assembly-CSharp\obj\x86\Release\x86\Release\Assembly-CSharp.dll
+C:\Users\IADS18_2\iads_2018\HoloLensProteinsGpSahHuy\Build\GeneratedProjects\UWP\Assembly-CSharp\obj\x86\Release\x86\Release\Assembly-CSharp.pdb
+C:\Users\IADS18_2\iads_2018\HoloLensProteinsGpSahHuy\Build\GeneratedProjects\UWP\Assembly-CSharp\obj\x86\Release\x86\Release\priconfig.xml
+C:\Users\IADS18_2\iads_2018\HoloLensProteinsGpSahHuy\Build\GeneratedProjects\UWP\Assembly-CSharp\obj\x86\Release\x86\Release\priconfig.xml.intermediate
+C:\Users\IADS18_2\iads_2018\HoloLensProteinsGpSahHuy\Build\GeneratedProjects\UWP\Assembly-CSharp\obj\x86\Release\x86\Release\layout.resfiles
+C:\Users\IADS18_2\iads_2018\HoloLensProteinsGpSahHuy\Build\GeneratedProjects\UWP\Assembly-CSharp\obj\x86\Release\x86\Release\layout.resfiles.intermediate
+C:\Users\IADS18_2\iads_2018\HoloLensProteinsGpSahHuy\Build\GeneratedProjects\UWP\Assembly-CSharp\obj\x86\Release\x86\Release\resources.resfiles
+C:\Users\IADS18_2\iads_2018\HoloLensProteinsGpSahHuy\Build\GeneratedProjects\UWP\Assembly-CSharp\obj\x86\Release\x86\Release\resources.resfiles.intermediate
+C:\Users\IADS18_2\iads_2018\HoloLensProteinsGpSahHuy\Build\GeneratedProjects\UWP\Assembly-CSharp\obj\x86\Release\x86\Release\pri.resfiles
+C:\Users\IADS18_2\iads_2018\HoloLensProteinsGpSahHuy\Build\GeneratedProjects\UWP\Assembly-CSharp\obj\x86\Release\x86\Release\pri.resfiles.intermediate
+C:\Users\IADS18_2\iads_2018\HoloLensProteinsGpSahHuy\Build\GeneratedProjects\UWP\Assembly-CSharp\obj\x86\Release\x86\Release\qualifiers.txt
+C:\Users\IADS18_2\iads_2018\HoloLensProteinsGpSahHuy\Build\GeneratedProjects\UWP\Assembly-CSharp\obj\x86\Release\x86\Release\qualifiers.txt.intermediate
+C:\Users\IADS18_2\iads_2018\HoloLensProteinsGpSahHuy\Build\GeneratedProjects\UWP\Assembly-CSharp\obj\x86\Release\x86\Release\MultipleQualifiersPerDimensionFound.txt
